@@ -1,0 +1,9 @@
+"use strict"// treat all JS code as newer version
+
+//bigInt // for very larger number
+// number  => 234
+// String => "hassan"
+// boolean =>true/false
+// null => standalone value (typeof // it is a object)
+// undefined //typeof it is undefined
+// symbol => unique
